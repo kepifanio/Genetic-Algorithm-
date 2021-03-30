@@ -3,10 +3,8 @@ Date: 3.30.21
 
 Purpose:
 
-    This program takes in a predetermined set of "boxes", each of
-    which holds a particular weight value and importance value.
-    Via a genetic algorithm, the program determines the combination
-    of boxes that will yield the highest total importance value,
+    This program takes in a predetermined set of "boxes", each of which holds a particular weight value and importance value.
+    Via a genetic algorithm, the program determines the combination of boxes that will yield the highest total importance value,
     without exceeding a maximum weight of 250.
 
 
